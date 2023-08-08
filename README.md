@@ -1,8 +1,8 @@
 👋 Hi, I’m @GuiCoralli <br>
 📜 Production engineer, with three years of experience in the areas of PCP, quality control and production processes. <br>
-🏆 I’m interested in gym, soccer, books, learning nwe things. <br>
+🏆 I’m interested in gym, soccer, books and learning new things. <br>
 🌱 I’m currently studyng and learning JavaScrip, HTML and CSS.<br> 
-👀 I’m looking for a job opportunity <br>
+👀 I’m looking for a job opportunity. <br>
 
 
 <a href="https://github.com/GuiCoralli">
