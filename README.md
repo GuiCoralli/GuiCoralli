@@ -1,8 +1,30 @@
+*<h1>About:</h1>*
+
 👋 Hi, I’m @GuiCoralli <br>
-📜 Production engineer, with three years of experience in the areas of PCP, quality control and production processes. <br>
-🔗 I’m interested in gym, soccer, books and learning new things. <br>
-📝 I’m currently studyng and learning JavaScrip, HTML and CSS.<br> 
-👀 I’m looking for a job opportunity. <br>
+ 
+Production engineer with three years of experience in the areas of Production Planning and Control (PCP), quality control and production processes. 
+I am currently focused on improving my software development skills.  
+<strong>I have dedicated myself to the self-taught study of languages, HTML and CSS, Javascript, seeking to understand technical aspects in depth, such as building practical projects and applying the best programming practices.</strong>
+ 
+*<h1>Goals:</h1>*
+
+Act as a junior full-stack developer or QA analyst, contributing to innovative projects to solidify my knowledge and passion for programming and technology.
+I look for new opportunities to apply my experience in manufacturing engineering while developing my skills in software development and quality assurance (QA).
+
+*<h1>Profile:</h1>* 
+
+With solid training and experience in process management and quality control, I developed an analytical profile to identify problems and offer solutions. 
+My skills in technological systems allow me to analyze and organize information, streamlining the planning and prioritization of tasks. 
+Allied to an interpersonal relationship, I have a practical, hands-on and organized profile.
+
+*<h1>Interests:</h1>*
+
+On a personal level, I maintain a balanced and healthy life. I am passionate about activities such as going to the gym, soccer, reading good books and keeping up with news and financial market indicators.
+
+I am looking for a job opportunity where I can integrate dynamic and collaborative teams, contribute my analytical vision and my passion for learning, while working to deliver high quality products and meet customer expectations.
+
+
+
 
 
 <a href="https://github.com/GuiCoralli">
