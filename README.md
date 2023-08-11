@@ -1,4 +1,4 @@
-*<h1>About</h1>*
+*<h2>About</h2>*
 
 👋 Hi, I’m @GuiCoralli <br>
  
@@ -6,22 +6,22 @@ Production engineer with three years of experience in the areas of Production Pl
 I am currently focused on improving my software development skills.  
 <strong>I have dedicated myself to the self-taught study of languages, HTML and CSS, Javascript, seeking to understand technical aspects in depth, such as building practical projects and applying the best programming practices.</strong>
  
-![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/14b9dc00-22de-42ab-834d-a2577e8b26cc) *<h1>Goals</h1>*
+![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/14b9dc00-22de-42ab-834d-a2577e8b26cc) *<h2>Goals</h2>*
 
 Act as a junior full-stack developer or QA analyst, contributing to innovative projects to solidify my knowledge and passion for programming and technology.
 I look for new opportunities to apply my experience in manufacturing engineering while developing my skills in software development and quality assurance (QA).
 
-*<h1>![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/def3c8cc-ff7b-4c20-af78-708be97745b0) Profile</h1>* 
+![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/def3c8cc-ff7b-4c20-af78-708be97745b0) *<h2>Profile</h2>* 
 
 With solid training and experience in process management and quality control, I developed an analytical profile to identify problems and offer solutions. 
 My skills in technological systems allow me to analyze and organize information, streamlining the planning and prioritization of tasks. 
 Allied to an interpersonal relationship, I have a practical, hands-on and organized profile.
 
-*<h1>![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/be4f2aa0-2a01-4a40-8e24-68e104c7d622) Interests</h1>*
+![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/be4f2aa0-2a01-4a40-8e24-68e104c7d622) *<h2>Interests</h2>*
 
 On a personal level, I maintain a balanced and healthy life. I am passionate about activities such as going to the gym, soccer, reading good books and keeping up with news and financial market indicators.
 
-*<h1> ![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/82d07a38-a36b-4b78-aac8-f0dd753f406a) Opportunity</h1>*
+![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/82d07a38-a36b-4b78-aac8-f0dd753f406a) *<h2>Opportunity</h2>*
 
 I am looking for a job opportunity where I can integrate dynamic and collaborative teams, contribute my analytical vision and my passion for learning, while working to deliver high quality products and meet customer expectations.
 
