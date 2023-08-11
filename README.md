@@ -6,7 +6,7 @@ Production engineer with three years of experience in the areas of Production Pl
 I am currently focused on improving my software development skills.  
 <strong>I have dedicated myself to the self-taught study of languages, HTML and CSS, Javascript, seeking to understand technical aspects in depth, such as building practical projects and applying the best programming practices.</strong>
  
-*<h1>![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/14b9dc00-22de-42ab-834d-a2577e8b26cc) Goals</h1>*
+![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/14b9dc00-22de-42ab-834d-a2577e8b26cc) *<h1>Goals</h1>*
 
 Act as a junior full-stack developer or QA analyst, contributing to innovative projects to solidify my knowledge and passion for programming and technology.
 I look for new opportunities to apply my experience in manufacturing engineering while developing my skills in software development and quality assurance (QA).
