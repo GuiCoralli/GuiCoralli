@@ -26,7 +26,7 @@ On a personal level, I maintain a balanced and healthy life. I am passionate abo
 I am looking for a job opportunity where I can integrate dynamic and collaborative teams, contribute my analytical vision and my passion for learning, while working to deliver high quality products and meet customer expectations.
 
 
-
+*<h2> GitHub Stats </h2>*
 
 
 <a href="https://github.com/GuiCoralli">
@@ -34,6 +34,8 @@ I am looking for a job opportunity where I can integrate dynamic and collaborati
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GuiCoralli&show_icons=true&theme=gotham">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
+
+*<h2> Skills & Tools  </h2>*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,7 +46,7 @@ I am looking for a job opportunity where I can integrate dynamic and collaborati
 </div>
   
   ##
- 
+ *<h2> Connect with me </h2>*
 <div> 
   <a href="https://www.youtube.com/channel/UCv3kgfdanB4NaE55UVCnk2A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/guicoralli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
