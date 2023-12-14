@@ -8,7 +8,7 @@ I am currently focused on improving my software development skills.
  
 ![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/14b9dc00-22de-42ab-834d-a2577e8b26cc) *<h2>Goals</h2>*
 
-Act as a junior full-stack developer or QA analyst, contributing to innovative projects to solidify my knowledge and passion for programming and technology.
+Act as a junior frontend developer or QA analyst, contributing to innovative projects to solidify my knowledge and passion for programming and technology.
 I look for new opportunities to apply my experience in manufacturing engineering while developing my skills in software development and quality assurance (QA).
 
 ![image](https://github.com/GuiCoralli/GuiCoralli/assets/134714337/def3c8cc-ff7b-4c20-af78-708be97745b0) *<h2>Profile</h2>* 
